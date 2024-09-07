@@ -1,0 +1,2 @@
+# Project Euler
+This directory consists of my programmatic solutions to the mathematical tasks posted at [Project Euler webiste](https://projecteuler.net/). These solutions are by no means optimal, and I expect the answers to be more refined the better I get.

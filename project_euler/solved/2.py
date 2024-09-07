@@ -10,5 +10,5 @@ def fibonacci(max_val):
             sum_total += now
 
     return sum_total
-print(fibonacci(4_000_000+1))
+print(fibonacci(4_000_000+1)) # 4613732
 
